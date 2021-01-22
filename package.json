@@ -9,10 +9,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.26.5"
+    "browser-sync": "^2.26.13"
   },
   "dependencies": {
     "axios": "^0.21.1",
-    "hoek": "^5.0.4"
+    "hoek": "^6.1.3"
   }
 }
